@@ -1,9 +1,9 @@
 {
+  "homepage": "https://frakot4.github.io/",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://frakot4.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
