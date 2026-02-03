@@ -6,14 +6,14 @@ import Home from './components/pages/Home';
 import Experience from './components/pages/Experience';
 import ExperienceDetails from './components/pages/ExperienceDetails';
 import Projects from './components/pages/Projects';
-import Skills from './components/pages/skills';
+import Competences from './components/pages/Competences';
 
 function App() {
   return (
     <div className="min-h-screen bg-base-200 flex flex-col justify-between">
       <Navbar />
       <Routes>
-        <Route path="/skills" element={<Skills />} />
+        <Route path="/competences" element={<Competences />} />
         <Route path="/experience" element={<Experience />} />
         <Route path="/experience/:id" element={<ExperienceDetails />} />
         <Route path="/projects" element={<Projects />} />

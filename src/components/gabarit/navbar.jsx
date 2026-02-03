@@ -11,7 +11,7 @@ export default function Navbar() {
                     <ul
                         tabIndex={0}
                         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
-                        <li><Link to="/skills">Compétences</Link></li>
+                        <li><Link to="/competences">Compétences</Link></li>
                         <li><Link to="/experience">Expériences</Link></li>
                         <li><Link to="/projects">Projets</Link></li>
                     </ul>
@@ -24,7 +24,7 @@ export default function Navbar() {
                         <details>
                             <summary>Navigation</summary>
                             <ul className="p-2 bg-base-100 min-w-[200px] z-[1]">
-                                <li><Link to="/skills">Compétences</Link></li>
+                                <li><Link to="/competences">Compétences</Link></li>
                                 <li><Link to="/experience">Expériences</Link></li>
                                 <li><Link to="/projects">Projets</Link></li>
                             </ul>

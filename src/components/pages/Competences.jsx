@@ -1,5 +1,5 @@
 
-export default function skills() {
+export default function Competences() {
     return (
         <div className="p-10 flex flex-col items-center">
             <h1 className="text-4xl font-bold mb-12">Compétences</h1>
@@ -101,7 +101,7 @@ export default function skills() {
                     </div>
                 </div>
 
-                {/* Catégorie Application & Déploiement (Bonus from image context) */}
+                {/* Catégorie Application & Déploiement */}
                 <div>
                     <h2 className="text-2xl font-bold mb-6 border-b pb-2">Application, Déploiement & Autres</h2>
                     <div className="flex flex-wrap gap-6 justify-center">
