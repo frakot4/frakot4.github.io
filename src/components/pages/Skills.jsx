@@ -1,5 +1,5 @@
 
-export default function Skills() {
+export default function skills() {
     return (
         <div className="p-10 flex flex-col items-center">
             <h1 className="text-4xl font-bold mb-12">Compétences</h1>
