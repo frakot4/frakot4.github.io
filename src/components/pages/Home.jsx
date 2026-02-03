@@ -22,7 +22,7 @@ export default function Home() {
                         Curieux et autonome, je me suis également formé en autodidacte aux technologies front-end, notamment Angular et surtout React, afin d’élargir mon champ de compétences et d’avoir une vision plus complète des projets. Rigoureux, orienté solution et sensible à la qualité du code, je recherche aujourd’hui des projets où la collaboration, l’impact concret et la valeur métier sont au cœur du développement. Mon objectif est d’évoluer vers un poste de développeur full stack, en continuant à monter en compétences sur des technologies modernes.
                     </p>
                     <div className="mt-8">
-                        <a href="/FANATITRA_RAKOTOMAVO_CV.pdf" download="FANATITRA_RAKOTOMAVO_CV.pdf" className="btn btn-primary text-white font-bold">
+                        <a href="./FANATITRA_RAKOTOMAVO_CV.pdf" download="FANATITRA_RAKOTOMAVO_CV.pdf" className="btn btn-primary text-white font-bold">
                             Télécharger mon CV
                         </a>
                     </div>
