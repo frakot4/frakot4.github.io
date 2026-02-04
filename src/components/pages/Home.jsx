@@ -15,7 +15,7 @@ export default function Home() {
                     </p>
 
                     <p className="py-2 text-lg text-justify">
-                        Lors de mon expérience de stage en milieu professionnel, j’ai travaillé sur des applications web complètes en PHP avec CakePHP, en interaction avec les équipes et dans un contexte réel de production. En parallèle, mes projets académiques et personnels m’ont permis de renforcer mes compétences en Java, Python, ainsi qu’en bases de données MySQL et PostgreSQL.
+                        j'ai déjà  de expérience de stage en milieu professionnel, j’ai travaillé sur des applications web complètes en PHP avec CakePHP, en interaction avec les équipes et dans un contexte réel de production. En parallèle, mes projets académiques et personnels m’ont permis de renforcer mes compétences en Java, Python, ainsi qu’en bases de données MySQL et PostgreSQL.
                     </p>
 
                     <p className="py-2 text-lg text-justify">
