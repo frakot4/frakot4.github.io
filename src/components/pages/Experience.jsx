@@ -18,7 +18,7 @@ export default function Experience() {
                     </figure>
                     <div className="card-body">
                         <h2 className="card-title">Caseware</h2>
-                        <p>conception et développement d'extensions fonctionnelles pour un logiciel d'expertise comptable</p>
+                        <p>développement d'extensions fonctionnelles pour un logiciel d'expertise comptable</p>
                         <div className="card-actions justify-end">
                             <Link to="/experience/1" className="btn btn-secondary">Détails</Link>
                         </div>
