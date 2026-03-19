@@ -24,7 +24,7 @@ export const experiences = [
     {
         id: 2,
         title: "GFASS - DSI Essonne",
-        badge: "LATEST",
+        badge: "Dernier en date",
         imageUrl: logo_GFASS,
         imageUrl_1: logo_91,
         shortDescription: "Stagiaire Développeur full-stack CakePHP",

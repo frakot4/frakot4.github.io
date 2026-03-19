@@ -31,7 +31,7 @@ export default function Competences() {
                                     <h2 className="card-title">Linux</h2>
                                     <p>Ubuntu, Debian, RedHat, Kali
                                         <br />
-                                        (full CLI or GUI)
+                                        (en  CLI ou GUI)
                                     </p>
                                 </div>
                             </div>
@@ -139,16 +139,32 @@ export default function Competences() {
                         <Hover3DCard>
                             <div className="card bg-neutral text-neutral-content w-80 shadow-xl h-full">
                                 <div className="card-body items-center text-center">
-                                    <h2 className="card-title">Mobile & Container</h2>
-                                    <p>Android Studio(java), Docker (fichiers YAML), Kubernetes, scripts bash</p>
+                                    <h2 className="card-title">Mobile</h2>
+                                    <p>Android Studio (Java)</p>
                                 </div>
                             </div>
                         </Hover3DCard>
                         <Hover3DCard>
                             <div className="card bg-neutral text-neutral-content w-80 shadow-xl h-full">
                                 <div className="card-body items-center text-center">
-                                    <h2 className="card-title">Hardware & Game Dev</h2>
-                                    <p>Unity, Arduino</p>
+                                    <h2 className="card-title">Déploiement</h2>
+                                    <p>Docker, Kubernetes, scripts bash</p>
+                                </div>
+                            </div>
+                        </Hover3DCard>
+                        <Hover3DCard>
+                            <div className="card bg-neutral text-neutral-content w-80 shadow-xl h-full">
+                                <div className="card-body items-center text-center">
+                                    <h2 className="card-title">Jeux vidéo</h2>
+                                    <p>Unity</p>
+                                </div>
+                            </div>
+                        </Hover3DCard>
+                        <Hover3DCard>
+                            <div className="card bg-neutral text-neutral-content w-80 shadow-xl h-full">
+                                <div className="card-body items-center text-center">
+                                    <h2 className="card-title">Systèmes embarqués / IoT</h2>
+                                    <p>Arduino</p>
                                 </div>
                             </div>
                         </Hover3DCard>

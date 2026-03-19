@@ -34,7 +34,7 @@ export default function Experience() {
                     </figure>
                     <div className="card-body">
                         <h2 className="card-title">DSI Essonne
-                            <div className="badge badge-secondary">LATEST</div>
+                            <div className="badge badge-secondary">Dernier en date</div>
                         </h2>
                         <p>Maintenance corrective et évolutive de l’application de gestion de la mise en relation entre les associations de l’Essonne et les instituts de formations</p>
                         <div className="card-actions justify-end">
