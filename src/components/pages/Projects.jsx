@@ -40,7 +40,7 @@ export default function Projects() {
                         <h2 className="card-title">2024 | projet pizza</h2>
                         <p>J'ai développé une application Java Swing respectant le modèle MVC et connectée à une base de données MariaDB, destinée à aider les livreurs de pizza à gérer l'intégralité de leur tournée, depuis l'authentification et la sélection des commandes jusqu'au suivi chronométré et à la validation de la livraison chez le client.</p>
                         <div className="card-actions justify-end">
-                            <a href="https://github.com/frakot4/projet_pizza" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Voir plus</a>
+                            <a href="https://github.com/frakot4/projet_pizza" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Voir le repo</a>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@ export default function Projects() {
                         <h2 className="card-title">2025 | projet job application</h2>
                         <p>mise en place d'un site web type de gestion des candidatures de stages (entreprises et étudiants) </p>
                         <div className="card-actions justify-end">
-                            <a href="https://github.com/frakot4/projet_webdev" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Voir plus</a>
+                            <a href="https://github.com/frakot4/projet_webdev" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Voir le repo</a>
                         </div>
                     </div>
                 </div>
