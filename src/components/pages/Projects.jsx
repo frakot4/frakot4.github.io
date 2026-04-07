@@ -70,6 +70,7 @@ export default function Projects() {
                         <p>mise en place d'un site web type de gestion des candidatures de stages (entreprises et étudiants) </p>
                         <div className="card-actions justify-end">
                             <a href="https://github.com/frakot4/projet_webdev" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Voir le repo</a>
+                            <a href="https://rakotomavofanatitra.dev/" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">Voir le site</a>
                         </div>
                     </div>
                 </div>
